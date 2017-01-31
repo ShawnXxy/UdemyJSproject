@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    margin-left: 395px;
+    font-weight: bold;
+}
+.wrapper{
+    max-width: 1000px;
+    position: relative;
+    margin-left: 100px;
+}
+.mySlides{
+    width: 100%;
+}
+img{
+    width: 958px;
+    height: 578px;
+}
+btn1, btn2{
+    position: absolute;
+    top: 45%;
+    left: 0;
+}
+#btn1, #btn2{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: lime;
+}
