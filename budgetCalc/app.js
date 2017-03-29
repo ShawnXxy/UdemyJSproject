@@ -32,7 +32,7 @@ var UIController=(function(){
 
 //GLOBAL APP CONTROLLER
 var controller=(function(budgetCtrl,UICtrl){
-  //create a function event once the check mart is clicked
+  //create a function event once the checkmark is clicked
   var ctrlAddItem=function(){
     //get the filed input data
     var input=UICtrl.getInput();
